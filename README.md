@@ -1,1 +1,1 @@
-# gradient_descent
+Implementation of gradient descent
